@@ -1,0 +1,6 @@
+[submodule "dep/i2c_mux_user_space_driver"]
+	path = dep/i2c_mux_user_space_driver
+	url = git@github.com:manojYenni/i2c_mux_user_space_driver.git
+[submodule "dep/gpio_exp_user_space_driver"]
+	path = dep/gpio_exp_user_space_driver
+	url = git@github.com:manojYenni/gpio_exp_user_space_driver.git
