@@ -1,4 +1,5 @@
-all: dep/cpputest dep/i2c_mux_user_space_driver dep/gpio_exp_user_space_driver
+all: dep/i2c_mux_user_space_driver dep/gpio_exp_user_space_driver
+	#dep/cpputest
 
 	
 
